@@ -16,6 +16,6 @@
     "issues": "https://github.com/dynamsoftsamples/php-barcode-com-component/issues"
   },
   "require": {
-    "php": ">=5.3"
+    
   }
 }
