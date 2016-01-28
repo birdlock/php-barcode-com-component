@@ -2,7 +2,9 @@
   "name": "dynamsoftsamples/php-barcode-com-component",
   "homepage": "http://www.dynamsoft.com/Products/Dynamic-Barcode-Reader.aspx",
   "description": "Dynamsoft Barcode Reader SDK for PHP - Implement Barcode Recognition to Your App",
-  "keywords": ["dynamsoft", "barcode", "sdk", "barcode reader"],
+  "keywords": ["dynamsoft","barcode","sdk","barcode reader", "Code 39", "Code 93", "Code 128", "Codabar", "Interleaved 2 of 5", "EAN-8", 
+    						"EAN-13", "UPC-A", "UPC-E", "Industrial 2 of 5", "Code39", "Code93", "Code128", "QR code", "QRcode", "Datamatrix", 
+    						"Data Matrix", "PDF417", "PDF 417"],
   "type": "library",
   "license": "Apache-2.0",
   "authors": [{
