@@ -1,0 +1,19 @@
+{
+  "name": "dynamsoftsamples/php-barcode-com-component",
+  "homepage": "http://www.dynamsoft.com/Products/Dynamic-Barcode-Reader.aspx",
+  "description": "Dynamsoft Barcode Reader SDK for PHP - Implement Barcode Recognition to Your App",
+  "keywords": ["dynamsoft", "barcode", "sdk", "barcode reader"],
+  "type": "library",
+  "license": "Apache-2.0",
+  "authors": [{
+    "name": "Dynamsoft Barcode Reader SDK",
+    "homepage": "http://www.dynamsoft.com"
+  }],
+  "support": {
+    "manual": "http://www.dynamsoft.com/help/Barcode-Reader/index.html",
+    "issues": "https://github.com/dynamsoftsamples/php-barcode-com-component/issues"
+  },
+  "require": {
+    "php": ">=5.3"
+  }
+}
